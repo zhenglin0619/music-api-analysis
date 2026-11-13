@@ -1,6 +1,6 @@
-# MLDS 422 Homework 5 — API Practice
+# Jay Chou Music Analysis
 
-This project combines Last.fm track information and listening statistics with Genius lyrics and songwriting credits for Jay Chou. Albums are selected automatically using Last.fm's popularity ranking. The saved dataset contains 54 songs from five albums: 11月的蕭邦, 七里香, 我很忙, 葉惠美, and 魔杰座.
+This project combines Last.fm track information and listening statistics with Genius lyrics and songwriting credits for Jay Chou. Albums are selected automatically using Last.fm's popularity ranking.
 
 ## APIs and collected fields
 
